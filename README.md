@@ -12,7 +12,7 @@
 ### 代码索引
 
 * [第2章 扫描器](./scanner)
-    * [单线程的TCP Connect扫描器](./scanner/cp-connect-scanner-demo)
+    * [单线程的TCP Connect扫描器](./scanner/tcp-connect-scanner-demo)
     * [支持并发的tcp connect扫描器1](./scanner/tcp-connect-scanner1/)
     * [支持并发的tcp connect扫描器2](./scanner/tcp-connect-scanner2/)
     * [单线程的TCP半连接扫描器](./scanner/tcp-syn-scan-demo/)
@@ -31,7 +31,6 @@
     * [以16进制格式输出数据包内容的Demo](./sniffer/demo/)
     * [解析数据包的Layers类型](./sniffer/decode_layers/)
     * [具有密码监听功能的嗅探器](./sniffer/sniff_password/)
-    * [arp欺骗数据包构造](./sniffer/send_arp/)
     * [arp欺骗数据包构造](./sniffer/send_arp/)
     * [支持arp欺骗的嗅探器demo](./sniffer/arp_sniff_demo/)
     * [go语言版的webspy](./sniffer/webspy/)
